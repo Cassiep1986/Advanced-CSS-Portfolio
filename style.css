@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, Arial, serif;
-    
+       
     
 }
 
@@ -10,6 +10,7 @@ body {
     margin-right:auto;
     width: 200px;
     height:200px;
+    background-color:rgb(95, 93, 93);
     
 }
 
@@ -20,28 +21,39 @@ body {
     background-color: lightblue;
     color:rgb(95, 93, 93);
     font-weight: bold;
-    margin:0px
-    display: block;
-    width:305px
-    }
+    width:325px;
+    position: absolute;
+    left: 0px;
+    top: -21px;
+    text-align: right;
     
+}
 .topnav {
     background-color: rgb(95, 93, 93);
-    overflow: hidden;
+    text-align: right;
+    padding-top:6px;
+    padding-left:10px;
+    
 }
 
 .topnav a {
     font-size: 20px;
-    float: right;
     color: lightblue;
-    text-align: center;
+    padding: 10px;
     text-decoration: underline;
-    padding: 13px 16px;
+
 }
 
 .page {
-    color: rgb(50, 50, 235);
-    border: right 6px rgb(50, 50, 235);
-    
+    color: rgb(105, 105, 241);
+    background-color: white;
+    display:inline block;      
+}
 
+.secondword {
+    text-indent: 1%;
+}
+
+section {
+    margin-left: 100px;
 }
