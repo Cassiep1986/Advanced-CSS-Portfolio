@@ -1,4 +1,47 @@
 body {
     font-family: Helvetica, Arial, serif;
     
+    
+}
+
+.headshot {
+    display: block;
+    margin-left: 532px;
+    margin-right:auto;
+    width: 200px;
+    height:200px;
+    
+}
+
+#name {
+    border-style: solid;
+    border-width: 0;
+    padding:2px;
+    background-color: lightblue;
+    color:rgb(95, 93, 93);
+    font-weight: bold;
+    margin:0px
+    display: block;
+    width:305px
+    }
+    
+.topnav {
+    background-color: rgb(95, 93, 93);
+    overflow: hidden;
+}
+
+.topnav a {
+    font-size: 20px;
+    float: right;
+    color: lightblue;
+    text-align: center;
+    text-decoration: underline;
+    padding: 13px 16px;
+}
+
+.page {
+    color: rgb(50, 50, 235);
+    border: right 6px rgb(50, 50, 235);
+    
+
 }
