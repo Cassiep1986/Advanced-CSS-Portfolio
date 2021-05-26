@@ -1,5 +1,6 @@
 body {
     font-family: Helvetica, Arial, serif;
+   
        
     
 }
@@ -47,13 +48,12 @@ body {
 .page {
     color: rgb(105, 105, 241);
     background-color: white;
-    display:inline block;      
+    display:flex;
 }
 
-.secondword {
-    text-indent: 1%;
+.about {
+    color: rgb(105, 105, 241);
+    background-color: white;
 }
 
-section {
-    margin-left: 100px;
-}
+    
