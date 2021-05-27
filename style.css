@@ -1,17 +1,18 @@
 body {
     font-family: Helvetica, Arial, serif;
-   
-       
-    
+    background: linear-gradient(to right, grey, blue, lightblue)
 }
 
 .headshot {
+    position:relative;
+    bottom:22px;
     display: block;
-    margin-left: 532px;
+    border-radius: 25px;
+    margin-left: 431px;
     margin-right:auto;
     width: 200px;
     height:200px;
-    background-color:rgb(95, 93, 93);
+    
     
 }
 
@@ -32,9 +33,8 @@ body {
 .topnav {
     background-color: rgb(95, 93, 93);
     text-align: right;
-    padding-top:6px;
+    padding-top:33px;
     padding-left:10px;
-    
 }
 
 .topnav a {
@@ -42,18 +42,31 @@ body {
     color: lightblue;
     padding: 10px;
     text-decoration: underline;
-
 }
 
-.page {
-    color: rgb(105, 105, 241);
+.flex1 {
     background-color: white;
-    display:flex;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 28px
 }
 
-.about {
-    color: rgb(105, 105, 241);
-    background-color: white;
+.text    {
+   display: block;
+   padding:12px;
+   
 }
 
-    
+.flex2 {
+    display: flex;
+    flex-direction: row;
+    gap: 54px;
+}
+
+.flex2 img {
+    width: 540px;
+
+
+}
