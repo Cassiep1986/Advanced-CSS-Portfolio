@@ -1,46 +1,48 @@
-**Table of contents**
+# Advanced CSS Portfolio [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-\*Description
+## Description
+This application contains a junior developer starter portfolio.
 
-\*Usage
+## Table of contents
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [License](#License) 
+- [Technology](#Technology)
+- [Contributing](#Contributing)
+- [Questions](#Questions)
 
-\*Technology
+## Installation
+This has been deployed on GIthub and can be accessed at [https://cassiep1986.github.io/Advanced-CSS-Portfolio/](https://cassiep1986.github.io/Advanced-CSS-Portfolio/).
 
-\*Installation
+## Usage
 
-\*Questions/Contact Details
+This application is used to display sample work to present to employers for assessment of potential employment.
 
-=====================================================================================
+The following shows the application's appearance:
+![README demo](./READMEDemoVideo.gif)
 
-**Description**
+use the following [link](https://drive.google.com/file/d/1AbplFeh8VbFrxcDBtWqqhl8wEHe2R8lF/view) to access the full length video.
 
-Contains junior developer starter portfolio.
 
-=====================================================================================
-
-**Usage**
-
-Display of sample work to present to employers for assessment of potential employment.
-
-=====================================================================================
-
-**Technology**
+## Technology
 
 This application utilizes the following technologies:
 
 - Html
 - CSS
 
-=====================================================================================
 
-**Installation**
+## License
 
-This has been deployed on GIthub and can be accessed at [https://cassiep1986.github.io/Advanced-CSS-Portfolio/](https://cassiep1986.github.io/Advanced-CSS-Portfolio/).
+This application is covered under a MIT license. 
+To learn more about this license, please visit this [site](https://choosealicense.com/licenses/mit/).
 
-=====================================================================================
+## Contributing
+To contribute to this repo, please contact me on GITHUB or by email (Link below).
 
-**Questions/Contact Details**
+## Questions
+This application can be found on my [github](https://www.github.com/cassiep1986?tab=repositories/).
 
-This app can be found on my github page at https://github.com/Cassiep1986/Advanced-CSS-Portfolio.
+For additonal questions you can contact me by [email](mailto:cassiep1986@gmail.com).
 
-For further questions regarding the application, please contact me on github or by email at cassiep1986@gmail.com.
