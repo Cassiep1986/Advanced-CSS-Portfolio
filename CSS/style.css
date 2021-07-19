@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica, Arial, serif;
-  background-color: #e5f0f7;
+  background-image: linear-gradient(white, lightblue, rgb(179, 176, 176));
 }
 
 header {
@@ -60,30 +60,80 @@ header {
 .flex2 {
   display: flex;
   flex-direction: row;
-  margin-right: 272px;
-  margin-left: 166px;
+  margin-left: 153px;
+  gap: 30px;
 }
 
 .flex2 img {
-  width: 700px;
+  width: 705px;
   height: 350px;
-  padding-left: 19px;
+  /* padding-left: 19px; */
 }
-/* delete below */
 
 .textcontainer {
-    position: relative;
-    text-align: center;
-    color: rgb(95, 93, 93)
+  position: relative;
+  text-align: center;
+  color: rgb(95, 93, 93);
 }
-.pictext {
-    position: absolute;
-    bottom: -21px;
-    left: 25px;
-    font-size: 30px;
-    border: solid;
-    background-color: aliceblue;
-  }
+
+img {
+  border: solid;
+  border-color: aliceblue;
+  border-radius: 8px;
+}
+
+.pictext1 {
+  position: absolute;
+  bottom: -21px;
+  left: 303px;
+  font-size: 30px;
+  border: solid;
+  background-color: aliceblue;
+}
+
+.repotext1 {
+  position: absolute;
+  top: 5px;
+  left: 317px;
+
+  font-size: 15px;
+  border: solid;
+  background-color: aliceblue;
+}
+
+.repotext1:hover {
+  background-color: blue;
+}
+
+.repotext2 {
+  position: absolute;
+  top: 7px;
+  left: 126px;
+  font-size: 15px;
+  border: solid;
+  background-color: aliceblue;
+}
+
+.repotext2:hover {
+  background-color: blue;
+}
+.pictext2 {
+  position: absolute;
+  bottom: -21px;
+  left: 25px;
+  font-size: 30px;
+  border: solid;
+  background-color: aliceblue;
+}
+
+.pictext3 {
+  position: absolute;
+  bottom: -21px;
+  left: 70px;
+  font-size: 30px;
+  border: solid;
+  background-color: aliceblue;
+}
 
 .flex3 {
   display: flex;
